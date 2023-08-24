@@ -1,3 +1,3 @@
 <html>
-<h1>#GlobalCodeLab</h1>
+<h1  style="color: Red;"> #GlobalCodeLab </h1>
 </html>
